@@ -3,3 +3,8 @@
 $ rustc main.rs
 ###### AQUI NO EXEMPLO O ARQUIVO TEM O NOME MAIN 
 $ ./main
+
+###### ESSA E A FUNÇÃO PRINCIPAL DO RUST 
+fn main() {
+
+}
