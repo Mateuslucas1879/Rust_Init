@@ -25,6 +25,9 @@ fn main() {
     println!("Hello, world!");
 }
 
-**Complindo um arquivo main.rs
-`` rustc main.rs
-```´
+Complindo um arquivo main.rs
+    rustc main.rs
+Execute o arquivo compilado
+    ./main
+
+
