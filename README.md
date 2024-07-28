@@ -24,3 +24,7 @@ O projeto contém um arquivo principal `main.rs`, que é onde está a função p
 fn main() {
     println!("Hello, world!");
 }
+
+**Complindo um arquivo main.rs
+`` rustc main.rs
+```´
